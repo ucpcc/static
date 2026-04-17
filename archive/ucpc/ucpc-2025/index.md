@@ -19,6 +19,7 @@ title: UCPC 2025
 
 - 문제: [PDF (국문)](./qualifier/problem-ko.pdf), [PDF (영문)](./qualifier/problem-en.pdf)
 - 해설: [PDF](./qualifier/editorial.pdf)
+- 스코어보드: [HTML](./qualifier/scoreboard/)
 
 ## 본선
 
@@ -29,6 +30,7 @@ title: UCPC 2025
 ### 자료
 
 - 해설: [PDF](./final/editorial.pdf)
+- 스코어보드: [HTML](./final/scoreboard/)
 
 ## 이동
 

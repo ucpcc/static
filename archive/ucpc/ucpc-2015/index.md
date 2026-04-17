@@ -15,6 +15,7 @@ title: UCPC 2015
 ## 자료
 
 - 해설: [PDF](./editorial.pdf)
+- 스코어보드: [HTML](./scoreboard/)
 
 
 ## 이동

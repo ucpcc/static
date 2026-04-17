@@ -18,6 +18,7 @@ title: UCPC 2018
 ### 자료
 
 - 문제: [PDF](./qualifier/problem.pdf)
+- 스코어보드: [HTML](./qualifier/scoreboard/)
 
 ## 본선
 
@@ -28,6 +29,7 @@ title: UCPC 2018
 ### 자료
 
 - 문제: [PDF](./final/problem.pdf)
+- 스코어보드: [HTML](./final/scoreboard/)
 
 ## 이동
 
