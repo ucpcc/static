@@ -19,3 +19,8 @@ jekyll serve
 - `jekyll serve` : 로컬 서버를 띄워 브라우저에서 확인할 수 있게 합니다.
 
 기본적으로 `http://127.0.0.1:4000`에서 확인할 수 있습니다.
+
+## License
+
+MIT LICENSE.
+
