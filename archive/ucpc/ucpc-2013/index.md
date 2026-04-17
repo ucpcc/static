@@ -15,6 +15,7 @@ title: UCPC 2013
 ## 자료
 
 - 해설: [PDF](./editorial.pdf)
+- 스코어보드: [PNG](./scoreboard.png)
 
 
 ## 이동
