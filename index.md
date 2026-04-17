@@ -9,4 +9,4 @@ title: static.ucpc.me
 
 - [아카이브](./archive/)
 - [UCPC](./archive/ucpc/)
-- [아카이브 기여 방법](./archive/contribute/)
+- [아카이브 기여 방법](./archive/contribute.html)

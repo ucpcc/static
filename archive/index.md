@@ -16,4 +16,4 @@ title: 아카이브
 
 ## 기여
 
-- [아카이브 기여 방법](./contribute/)
+- [아카이브 기여 방법](./contribute.html)
