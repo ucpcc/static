@@ -1,6 +1,14 @@
-MIT License
+Spotboard License Notice
+========================
 
-Copyright (c) 2026 전국 대학생 프로그래밍 대회 동아리 연합
+이 디렉터리의 스코어보드 페이지는 Spotboard 기반 보존본을 포함합니다.
+
+- 프로젝트: https://github.com/spotboard/spotboard
+- upstream 안내: MIT License
+
+아래는 MIT License 전문입니다.
+
+MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
