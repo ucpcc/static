@@ -50,7 +50,7 @@ archive/
 
 예시:
 
-- `archive/ucpc/ucpc-2025-qualifier/`
+- `archive/ucpc/ucpc-2025/`
 
 ### 4. 새 대회 아카이브를 추가하려는 경우
 
@@ -64,11 +64,14 @@ archive/
 ```text
 archive/
   ucpc/
-    ucpc-2025-qualifier/
+    ucpc-2025/
       index.md
-      problem-ko.pdf
-      problem-en.pdf
-      editorial.pdf
+      qualifier/
+        problem-ko.pdf
+        problem-en.pdf
+        editorial.pdf
+      final/
+        editorial.pdf
 ```
 
 ## 규칙
@@ -89,7 +92,7 @@ archive/
 예시:
 
 - `ucpc`
-- `ucpc-2025-qualifier`
+- `ucpc-2025`
 - `sogang-icpc-2024`
 
 ### 브랜치 이름 규칙
@@ -100,8 +103,8 @@ archive/
 예시:
 
 - `org-ucpc`
-- `ucpc-2025-qualifier`
-- `ucpc-2025-finals-scoreboard`
+- `ucpc-2025`
+- `ucpc-2025-scoreboard`
 
 ### 단체와 대회 구조
 
@@ -145,24 +148,27 @@ archive/
 archive/
   ucpc/
     index.md
-    ucpc-2025-qualifier/
+    ucpc-2025/
       index.md
-      problem-ko.pdf
-      problem-en.pdf
-      editorial.pdf
-      solution-code.zip
-      testdata.zip
+      qualifier/
+        problem-ko.pdf
+        problem-en.pdf
+        editorial.pdf
+      final/
+        editorial.pdf
       scoreboard/
         index.html
         css/
         js/
 ```
 
-위처럼 대회 디렉터리 바로 아래에 파일을 두면:
+위처럼 대회 디렉터리 아래에서 예선과 본선을 나누어 정리하면:
 
 - 경로가 짧아지고
 - 링크를 걸기 쉽고
 - 나중에 자료를 찾기도 쉬워집니다.
+
+예선과 본선을 나눌 필요가 없다면 대회 디렉터리 바로 아래에 파일을 두어도 괜찮습니다.
 
 반대로 이미 폴더가 깊은 raw 구조를 갖고 있어도 올릴 수는 있습니다.  
 

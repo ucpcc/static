@@ -1,0 +1,38 @@
+---
+layout: default
+title: UCPC 2023
+---
+
+# UCPC 2023
+
+- 회차: 12회
+- 연도: 2023
+- 대회 페이지: [2023.ucpc.me](https://2023.ucpc.me)
+
+## 예선
+
+- 팀 수: 222
+- 참가자 수: 666
+- 장소: 온라인
+
+### 자료
+
+- 문제: [PDF](./qualifier/problem.pdf)
+- 해설: [PDF](./qualifier/editorial.pdf)
+
+## 본선
+
+- 팀 수: 44
+- 참가자 수: 132
+- 장소: SK텔레콤 분당사옥
+
+### 자료
+
+- 문제: [PDF](./final/problem.pdf)
+- 해설: [PDF](./final/editorial.pdf)
+
+## 이동
+
+- 상위: [UCPC](../)
+- 이전 대회: [UCPC 2022](../ucpc-2022/)
+- 다음 대회: [UCPC 2024](../ucpc-2024/)

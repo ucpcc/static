@@ -2,3 +2,6 @@ title: static.ucpc.me
 description: 전국 대학생 프로그래밍 대회 동아리 연합 자료 저장소
 theme: minima
 markdown: kramdown
+header_pages:
+  - archive/index.md
+  - archive/contribute.md

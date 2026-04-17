@@ -12,3 +12,9 @@ title: UCPC 2011
 
 - 문제: [PDF](./problem.pdf)
 - 해설: [PDF](./editorial.pdf)
+
+
+## 이동
+
+- 상위: [UCPC](../)
+- 다음 대회: [UCPC 2012](../ucpc-2012/)
