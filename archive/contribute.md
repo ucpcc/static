@@ -23,7 +23,7 @@ title: 아카이브 기여 방법
 
 - 직접 PR을 열기 어렵다면 메일로 자료를 보내는 방식으로 기여할 수 있습니다.
 - 아카이브 관련 문의 및 자료 전달 메일은 `archive@ucpc.me`입니다.
-- 메일을 보낼 때에는 [아카이브 메일 양식](./email-template.html)을 참고해 주시기 바랍니다.
+- 메일을 보낼 때에는 [아카이브 메일 양식](https://github.com/ucpcc/static/blob/main/archive/templates/request-email.md)을 참고해 주시기 바랍니다.
 - 메일로 전달된 자료는 임원진이 직접 확인하고 정리해야 하므로, 반영까지 시간이 오래 걸릴 수 있습니다.
 - 대회 자료를 메일로 보내 주시면 임원진이 확인 후 업로드하겠습니다.
 
@@ -46,6 +46,8 @@ title: 아카이브 기여 방법
 4. 문의 가능한 단체 연락처를 함께 적어 주시기 바랍니다.
 5. 필요하면 그 아래에 대회 디렉터리를 추가합니다.
 6. `archive/index.md`에 새 단체 링크를 추가합니다.
+
+필요하면 [단체 템플릿](https://github.com/ucpcc/static/tree/main/archive/templates/example-org)을 복사해서 시작할 수 있습니다.
 
 예시:
 
@@ -72,6 +74,8 @@ archive/
 2. 그 안에 `index.md`를 만듭니다.
 3. 문제, 해설, 테스트데이터, 스코어보드 등 대회 자료를 넣습니다.
 4. `archive/{org}/index.md`에 대회 링크를 추가합니다.
+
+필요하면 [대회 템플릿](https://github.com/ucpcc/static/tree/main/archive/templates/example-org/example-contest)을 복사해서 시작할 수 있습니다.
 
 예시:
 
@@ -169,6 +173,10 @@ archive/
 
 스코어보드의 경우 HTML, CSV, JS, CSS, 이미지 등 관련 파일이 함께 오는 경우가 많기 때문에, 이 경우에는 `scoreboard/` 폴더를 두고 그 아래에 파일을 모아 두는 편이 더 자연스럽습니다.
 
+테스트데이터의 경우 용량 문제 때문에, 가능하면 이 저장소에 직접 올리지 말고 별도의 드라이브나 외부 저장소에 올린 뒤 링크를 거는 방식을 권장합니다.
+
+특히 대용량 테스트데이터는 레포를 가볍게 유지하기 위해 외부 링크로 관리해 주시기 바랍니다.
+
 ### 예시
 
 ```text
@@ -207,5 +215,5 @@ archive/
 - 다국어 문제지: `problem-ko.pdf`, `problem-en.pdf`
 - 해설: `editorial.pdf`
 - 코드 묶음: `solution-code.zip`
-- 테스트데이터: `testdata.zip`
+- 테스트데이터: 가능하면 외부 저장소 링크 사용
 - 스코어보드: 가능하면 `scoreboard/` 폴더를 두고 `index.html`을 진입점으로 사용
