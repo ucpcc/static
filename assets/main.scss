@@ -1,0 +1,13 @@
+---
+# Only the main Sass file needs front matter.
+---
+
+@import "minima";
+
+.site-footer .footer-notice {
+  margin-top: 1.25rem;
+  font-size: 0.64rem;
+  line-height: 1.65;
+  color: #4a4a4a;
+  max-width: none;
+}
