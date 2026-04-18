@@ -3,17 +3,22 @@ layout: default
 title: UCPC
 ---
 
+# 전국 대학생 프로그래밍 대회 동아리 연합 소개
+
+전국 대학생 프로그래밍 대회 동아리 연합은 국내외 프로그래밍 대회를 준비하고 참여하기 위해 모인 31개 대학 33개 동아리의 연합입니다.
+
+자세한 내용은 [ucpc.me](https://ucpc.me/)과 [연합 규약](https://github.com/ucpcc/rules)을 참고해 주시기 바랍니다.
+
 # UCPC
 
-UCPC 대회 자료 아카이브입니다.
+UCPC는 전국 대학생 프로그래밍 대회 동아리 연합에서 진행하는 여름 대회입니다.
+매년 여름에 진행하는 UCPC는 ICPC를 준비하는 팀들에게 훌륭한 연습 기회가 되고 있고,
+프로그래밍 대회라는 하나의 공통적인 목표와 학구열을 가진 학생들에게 좋은 교류와 경쟁의 장이 되고 있습니다.
 
-## 범위
+## 아카이빙 범위
 
 - 연도: 2011-2025
 - 대회 항목 수: 14
-- 권리 및 이용 안내: [LICENSE.md](./LICENSE.md)
-- 일반 문의: [contact@ucpc.me](mailto:contact@ucpc.me)
-- 아카이브 관련 문의: [archive@ucpc.me](mailto:archive@ucpc.me)
 
 ## 대회 목록
 
@@ -33,3 +38,10 @@ UCPC 대회 자료 아카이브입니다.
 | 2023 | 예선 / 본선 | [UCPC 2023](./ucpc-2023/) |
 | 2024 | 예선 / 본선 | [UCPC 2024](./ucpc-2024/) |
 | 2025 | 예선 / 본선 | [UCPC 2025](./ucpc-2025/) |
+
+# 기타
+
+- 권리 및 이용 안내: [LICENSE.md](./LICENSE.md)
+- 제3자 소프트웨어 고지: [THIRD_PARTY_NOTICES.md](./THIRD_PARTY_NOTICES.md)
+- 일반 문의: [contact@ucpc.me](mailto:contact@ucpc.me)
+- 아카이브 관련 문의: [archive@ucpc.me](mailto:archive@ucpc.me)
