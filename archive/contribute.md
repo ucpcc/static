@@ -19,7 +19,7 @@ title: 아카이브 기여 방법
 - 저장소 주소는 [github.com/ucpcc/static](https://github.com/ucpcc/static) 입니다.
 - 운영 부담을 줄이기 위해, 가능하면 Pull Request 방식으로 기여해 주시기 바랍니다.
 - `.github/PULL_REQUEST_TEMPLATE.md` 템플릿에 맞춰서 정리해 주시기 바랍니다.
-- 임원진이 리뷰 후 머지하겠습니다.
+- 임원진 승인 후 머지 가능합니다.
 - 머지는 `Squash merge`만 사용합니다. 히스토리를 깔끔하게 유지하기 위함입니다.
 
 ### Email 방법
