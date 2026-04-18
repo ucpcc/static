@@ -12,6 +12,8 @@ UCPC 대회 자료 아카이브입니다.
 - 연도: 2011-2025
 - 대회 항목 수: 14
 - 권리 및 이용 안내: [LICENSE.md](./LICENSE.md)
+- 일반 문의: [contact@ucpc.me](mailto:contact@ucpc.me)
+- 아카이브 문의: [archive@ucpc.me](mailto:archive@ucpc.me)
 
 ## 대회 목록
 
