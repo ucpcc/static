@@ -31,6 +31,7 @@ title: UCPC 2025
 
 ### 자료
 
+- 문제: [PDF (국문)](./final/problem-ko.pdf), [PDF (영문)](./final/problem-en.pdf)
 - 해설: [PDF](./final/editorial.pdf)
 - 스코어보드: [HTML](./final/scoreboard/)
 

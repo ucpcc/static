@@ -11,6 +11,12 @@ title: UCPC 2022
 
 이 페이지에서 제공하는 자료의 이용 및 저작권 관련 안내는 [LICENSE.md](../LICENSE.md)를 참고해 주시기 바랍니다.
 
+## 예비소집
+
+### 자료
+
+- 문제 패키지: [ZIP 모음](./practice/packages/)
+
 ## 예선
 
 - 팀 수: 302
@@ -21,6 +27,7 @@ title: UCPC 2022
 
 - 문제: [PDF](./qualifier/problem.pdf)
 - 해설: [PDF](./qualifier/editorial.pdf)
+- 문제 패키지: [ZIP 모음](./qualifier/packages/)
 - 스코어보드: [HTML](./qualifier/scoreboard/)
 
 ## 본선
@@ -33,6 +40,7 @@ title: UCPC 2022
 
 - 문제: [PDF](./final/problem.pdf)
 - 해설: [PDF](./final/editorial.pdf)
+- 문제 패키지: [ZIP 모음](./final/packages/)
 - 스코어보드: [HTML](./final/scoreboard/)
 
 ## 이동

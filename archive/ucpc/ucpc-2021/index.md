@@ -22,6 +22,7 @@ title: UCPC 2021
 
 - 문제: [PDF](./qualifier/problem.pdf)
 - 해설: [PDF](./qualifier/editorial.pdf)
+- 문제 패키지: [ZIP 모음](./qualifier/packages/)
 - 스코어보드: [HTML](./qualifier/scoreboard/)
 
 ## 본선
@@ -35,6 +36,7 @@ title: UCPC 2021
 
 - 문제: [PDF](./final/problem.pdf)
 - 해설: [PDF](./final/editorial.pdf)
+- 문제 패키지: [ZIP 모음](./final/packages/)
 - 스코어보드: [HTML](./final/scoreboard/)
 
 ## 이동

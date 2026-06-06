@@ -11,6 +11,11 @@
 - 관련 경로: `ucpc-2015/scoreboard/`, `ucpc-2018/**/scoreboard/` ~ `ucpc-2025/**/scoreboard/`
 - 비고: 스코어보드 보존본은 Spotboard 기반 페이지를 함께 포함합니다.
 
+## Problem package links
+
+- 관련 경로: `ucpc-2018/**/packages/`, `ucpc-2020/**/packages/` ~ `ucpc-2024/**/packages/`, `ucpc-2022/practice/packages/`
+- 비고: 일부 링크 대상 ZIP에는 Polygon 내보내기 자료와 `testlib.h` 등 채점/검증 보조 코드가 포함될 수 있습니다. 개별 ZIP 내부의 파일 주석과 라이선스 고지를 함께 참고해 주세요.
+
 ## Included third-party components
 
 - `js/lib/jquery-1.8.2.min.js`
