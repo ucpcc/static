@@ -8,7 +8,7 @@
 ## Spotboard
 
 - 프로젝트: <https://github.com/spotboard/spotboard>
-- 관련 경로: `ucpc-2015/scoreboard/`, `ucpc-2018/**/scoreboard/` ~ `ucpc-2025/**/scoreboard/`
+- 관련 경로: `ucpc-2015/scoreboard/`, `ucpc-2018/**/scoreboard/` ~ `ucpc-2026/**/scoreboard/`
 - 비고: 스코어보드 보존본은 Spotboard 기반 페이지를 함께 포함합니다.
 
 ## Included third-party components

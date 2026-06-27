@@ -13,10 +13,15 @@ title: UCPC 2026
 
 ## 예선
 
+- 팀 수: 149
+- 참가자 수: 447
+- 장소: 온라인
+
 ### 자료
 
 - 문제: [PDF (국문)](./qualifier/problem-ko.pdf), [PDF (영문)](./qualifier/problem-en.pdf)
 - 해설: [PDF](./qualifier/editorial.pdf)
+- 스코어보드: [HTML](./qualifier/scoreboard/)
 
 ## 이동
 

@@ -37,6 +37,7 @@ MIT 라이선스가 적용되는 구성 요소가 포함되어 있습니다.
 - `ucpc-2023/**/scoreboard/`
 - `ucpc-2024/**/scoreboard/`
 - `ucpc-2025/**/scoreboard/`
+- `ucpc-2026/**/scoreboard/`
 
 해당 디렉터리의 `SPOTBOARD_LICENSE.txt`, `../ucpc/THIRD_PARTY_NOTICES.md`,
 및 개별 파일 주석을 함께 참고해 주세요.
