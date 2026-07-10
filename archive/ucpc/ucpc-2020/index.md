@@ -20,9 +20,10 @@ title: UCPC 2020
 
 ### 자료
 
-- 문제: [PDF](./qualifier/problem.pdf)
-- 해설: [PDF](./qualifier/editorial.pdf)
-- 스코어보드: [HTML](./qualifier/scoreboard/)
+- 예선 문제: [PDF](./qualifier/problem.pdf)
+- 예선 해설: [PDF](./qualifier/editorial.pdf)
+- 예선 스코어보드: [HTML](./qualifier/scoreboard/)
+- 예선 전체 자료: [ZIP](https://github.com/ucpcc/static/releases/download/archive-ucpc-v2020/v2020P.zip)
 
 ## 본선
 
@@ -33,9 +34,10 @@ title: UCPC 2020
 
 ### 자료
 
-- 문제: [PDF](./final/problem.pdf)
-- 해설: [PDF](./final/editorial.pdf)
-- 스코어보드: [HTML](./final/scoreboard/)
+- 본선 문제: [PDF](./final/problem.pdf)
+- 본선 해설: [PDF](./final/editorial.pdf)
+- 본선 스코어보드: [HTML](./final/scoreboard/)
+- 본선 전체 자료: [ZIP](https://github.com/ucpcc/static/releases/download/archive-ucpc-v2020/v2020F.zip)
 
 ## 이동
 
