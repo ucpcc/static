@@ -21,6 +21,7 @@ title: UCPC 2018
 
 - 문제: [PDF](./qualifier/problem.pdf)
 - 스코어보드: [HTML](./qualifier/scoreboard/)
+- 예선 전체 자료: [ZIP](https://github.com/ucpcc/static/releases/download/archive-ucpc-v2018/v2018P.zip)
 
 ## 본선
 
@@ -32,6 +33,7 @@ title: UCPC 2018
 
 - 문제: [PDF](./final/problem.pdf)
 - 스코어보드: [HTML](./final/scoreboard/)
+- 본선 전체 자료: [ZIP](https://github.com/ucpcc/static/releases/download/archive-ucpc-v2018/v2018F.zip)
 
 ## 이동
 
