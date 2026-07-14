@@ -23,6 +23,19 @@ title: UCPC 2026
 - 해설: [PDF](./qualifier/editorial.pdf)
 - 스코어보드: [HTML](./qualifier/scoreboard/)
 
+## 본선
+
+- 팀 수: 60
+- 참가자 수: 180
+- 장소: 카이스트 학술문화관 5층 정근모컨퍼런스홀
+
+### 자료
+
+- 문제: [PDF (국문)](./final/problem-ko.pdf), [PDF (영문)](./final/problem-en.pdf)
+- 해설: [PDF](./final/editorial.pdf)
+- 스코어보드: [HTML](./final/scoreboard/)
+- 다시 풀어보기: [Codeforces Gym](https://codeforces.com/gym/106618)
+
 ## 이동
 
 - 상위: [UCPC](../)
