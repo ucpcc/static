@@ -22,6 +22,7 @@ title: UCPC 2026
 - 문제: [PDF (국문)](./qualifier/problem-ko.pdf), [PDF (영문)](./qualifier/problem-en.pdf)
 - 해설: [PDF](./qualifier/editorial.pdf)
 - 스코어보드: [HTML](./qualifier/scoreboard/)
+- 전체 자료: [ZIP](https://github.com/ucpcc/static/releases/download/archive-ucpc-v2026/v2026P.zip)
 
 ## 본선
 
@@ -34,6 +35,7 @@ title: UCPC 2026
 - 문제: [PDF (국문)](./final/problem-ko.pdf), [PDF (영문)](./final/problem-en.pdf)
 - 해설: [PDF](./final/editorial.pdf)
 - 스코어보드: [HTML](./final/scoreboard/)
+- 전체 자료: [ZIP](https://github.com/ucpcc/static/releases/download/archive-ucpc-v2026/v2026F.zip)
 - 다시 풀어보기: [Codeforces Gym](https://codeforces.com/gym/106618)
 
 ## 이동
